@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-Installation Overview
+**Installation Overview**
 
 1. Create Virtual Machines
 2. Turn Windows 10 OS into a web server
@@ -52,9 +52,7 @@ Installation
    -Install & Enable IIS (Internet Information Services) on the Windows computer, including application features the IIS Management Console
 
 5. Install Prerequisite Programs
-   -Install PHP Manager
-   -Install Rewrite
-   -Install PHP:
+  
      
 
 
