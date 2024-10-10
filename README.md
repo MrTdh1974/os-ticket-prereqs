@@ -30,7 +30,7 @@ These instructions outline the prerequisites and installation of the open-source
 
 
 **Installation Overview**
-
+ 
 1. Create Virtual Machines
 2. Turn Windows 10 OS into a web server
 3. Install all Prerequisite Programs
