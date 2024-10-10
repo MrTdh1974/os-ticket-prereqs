@@ -19,9 +19,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-List Of Prerequisites 
+
+
+**List Of Prerequisites** 
 
 ![image](https://github.com/user-attachments/assets/7b976a77-2c3c-4ce2-bcf8-41a32fa83966)
+
+
 
 
 Installation Overview
@@ -34,6 +38,8 @@ Installation Overview
 6. Complete installation by registering email and mySQL database
 7. Confirm osTicket can be reached by end users on LocalHost
 8. Clean up of all files that pose a security risk
+
+
 
 
 Installation 
