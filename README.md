@@ -18,6 +18,10 @@ These instructions outline the prerequisites and installation of the open-source
 - Windows 10</b> (21H2)
 
 
+Video Tutorial
+
+
+https://github.com/user-attachments/assets/2152d7df-7149-4bcf-b3f8-cf80731dcc52
 
 
 
